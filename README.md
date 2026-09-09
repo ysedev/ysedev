@@ -1,6 +1,6 @@
 # Olá, eu sou o Braian de Freitas Neima 👋
 
-🎓 Estudante de Ciência da Computação | 💻 Desenvolvedor em formação
+🎓 Estudante de Engenharia de Software | 💻 Desenvolvedor em formação
 
 ## 🚀 Sobre mim
 
