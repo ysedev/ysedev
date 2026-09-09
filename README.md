@@ -4,8 +4,7 @@
 
 ## 🚀 Sobre mim
 
-Estou em constante aprendizado sobre desenvolvimento de software e boas 
-práticas de versionamento de código.
+Estudante de Engenharia de Software com sólida base em Python, JavaScript, HTML5, CSS3 e versionamento de código com Git/GitHub. Comprometido com aprendizado contínuo e boas práticas de desenvolvimento, busco oportunidades para aplicar meus conhecimentos técnicos em projetos reais
 
 ## 🛠️ Tecnologias e ferramentas
 
