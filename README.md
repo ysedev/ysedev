@@ -18,9 +18,10 @@ práticas de versionamento de código.
 
 ## 🏆 Certificações
 
-![GitHub Foundations](https://img.shields.io/badge/Microsoft%20Learn-GitHub%20Foundations-3fb950?style=flat&logo=microsoft&logoColor=white)
-
 - ✅ **GitHub Foundations** — Microsoft Learn (trilha completa, Parte 1 e 2)
+
+![Certificado GitHub Foundations Parte 1](github1.png)
+![Certificado GitHub Foundations Parte 2](github2.png)
 
 ## 📌 Projetos em destaque
 
