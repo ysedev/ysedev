@@ -1,23 +1,32 @@
-# 💼 Portfólio — Braian de Freitas Neima
+# Olá, eu sou o Braian de Freitas Neima 👋
 
-Repositório criado como aplicação prática da trilha **GitHub Foundations** 
-(Microsoft Learn), para a disciplina de Design Profissional. Aqui reúno 
-meus projetos e estudos como forma de demonstrar na prática o que venho 
-aprendendo em desenvolvimento e versionamento de código com Git/GitHub.
+🎓 Estudante de Ciência da Computação | 💻 Desenvolvedor em formação
 
-## 🎯 Objetivo deste repositório
+## 🚀 Sobre mim
 
-- Aplicar na prática os conceitos da trilha GitHub Foundations (commits, 
-  branches, pull requests e README).
-- Reunir meus principais projetos em um só lugar, como parte do meu 
-  portfólio profissional.
-- Servir como "cartão de visitas" técnico, complementando meu currículo 
-  e LinkedIn.
+Estou em constante aprendizado sobre desenvolvimento de software e boas 
+práticas de versionamento de código.
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias e ferramentas
 
-- Python
-- HTML / CSS / JavaScript
-- Git / GitHub
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 📂 Estrutura do repositório
+## 🏆 Certificações
+
+![GitHub Foundations](https://img.shields.io/badge/Microsoft%20Learn-GitHub%20Foundations-3fb950?style=flat&logo=microsoft&logoColor=white)
+
+- ✅ **GitHub Foundations** — Microsoft Learn (trilha completa, Parte 1 e 2)
+
+## 📌 Projetos em destaque
+
+Confira os repositórios fixados abaixo 👇
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/braiandev/)
+- [Portfólio](https://ysedev.github.io/portfolio/)
